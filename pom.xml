@@ -522,6 +522,8 @@ Bundle-DocURL:
                     <groupId>org.apache.sling</groupId>
                     <artifactId>sling-maven-plugin</artifactId>
                  </plugin>
+
+
             -->
             <activation>
                 <activeByDefault>false</activeByDefault>
