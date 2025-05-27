@@ -1,4 +1,4 @@
-# AEM WKND Sites Project
+# AEM WKND Sites Project v1
 
 ## Adobe Experience Manager compatibility
 
